@@ -62,5 +62,13 @@
   "peerDependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "autoinstall": true
+    },
+    "react-dom": {
+      "autoinstall": true
+    }
   }
 }
